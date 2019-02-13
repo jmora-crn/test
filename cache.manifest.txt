@@ -1,0 +1,6 @@
+CACHE MANIFEST
+
+entrenador.html
+css/*
+img/*
+js/*
